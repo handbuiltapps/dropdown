@@ -10,8 +10,6 @@ This is a light-weight jquery plugin that provides a wrapper for the native HTML
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <!-- HBA Dropdown file -->
 <script type="text/javascript" src="js/jquery.hbaDropdown.js"></script>
-<!-- HBA Dropdown CSS file -->
-<script type="text/javascript" src="js/jquery.hbaDropdown.css"></script>
 ```
 ##Usage##
 ```javascript
