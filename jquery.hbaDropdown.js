@@ -1,3 +1,9 @@
+/*!
+ * jquery.hbaDropdown.min.js v1.0
+ * @author  Balaji Viswanath
+ * @organisation HandBuiltApps
+ * MIT License
+ */
 (function ($) {
     $.fn.hbaDropdown = function (options) {
         //Default Options
