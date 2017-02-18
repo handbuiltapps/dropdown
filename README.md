@@ -1,5 +1,5 @@
 #Custom Dropdown using jQuery#
-This is a jquery plugin that provides a wrapper for the native HTML **SELECT** tag which will allow you to add custom styling for the select tag without losing it's native behaviour.
+This is a light-weight jquery plugin that provides a wrapper for the native HTML **SELECT** tag which will allow you to add custom CSS styling for the select tag without losing it's native behaviour.
 
 ##Requirements##
 [jQuery](https://jquery.com) 1.4+
@@ -10,6 +10,8 @@ This is a jquery plugin that provides a wrapper for the native HTML **SELECT** t
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <!-- HBA Dropdown file -->
 <script type="text/javascript" src="js/jquery.hbaDropDown.js"></script>
+<!-- HBA Dropdown CSS file -->
+<script type="text/javascript" src="js/jquery.hbaDropDown.css"></script>
 ```
 ##Usage##
 ```javascript
