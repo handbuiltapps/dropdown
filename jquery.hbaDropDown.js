@@ -1,5 +1,5 @@
 (function ($) {
-    $.fn.hbaDropDown = function (options) {
+    $.fn.hbaDropdown = function (options) {
         //Default Options
         var defaults = {
             promptClass: "hba-prompt",
