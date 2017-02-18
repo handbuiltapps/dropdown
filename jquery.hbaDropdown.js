@@ -1,5 +1,5 @@
 /*!
- * jquery.hbaDropdown.min.js v1.0
+ * jquery.hbaDropdown.js v1.0
  * @author  Balaji Viswanath
  * @organisation HandBuiltApps
  * MIT License
