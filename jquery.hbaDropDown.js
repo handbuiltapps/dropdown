@@ -29,13 +29,24 @@
                 
                 //Create wrapper div
                 var container = $('<div/>', {
-                    'class': 'hba-dd'
+                    'class': 'hba-dd',
+                    'style': 'position: relative'
                 });
                 if(element.id)
                     container.attr('id', element.id + 'hba_dd');
 
                 //Wrap select inside the created wrapper
                 $(element).wrap(container);
+
+                //Add CSS for select tag
+                $(element).css({
+                    "opacity" : 0,
+                    "position" : "absolute",
+                    "top" : 0,
+                    "right" : 0,
+                    "width" : "100%",
+                    "height" : "100%"
+                });
                 
                 //Div to hold the selected value
                 var selected = $('<div/>', { 
