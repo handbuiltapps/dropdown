@@ -9,7 +9,7 @@ This is a light-weight jquery plugin that provides a wrapper for the native HTML
 <!-- jQuery library (served from Google) -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <!-- HBA Dropdown file -->
-<script type="text/javascript" src="js/jquery.hbaDropdown.js"></script>
+<script type="text/javascript" src="jquery.hbaDropdown.js"></script>
 ```
 ##Usage##
 ```javascript
