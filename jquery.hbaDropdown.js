@@ -1,8 +1,9 @@
 /*!
  * jquery.hbaDropdown.js v1.0
- * @author  Balaji Viswanath
+ * @link https://www.handbuiltapps.com
+ * @author Balaji Viswanath
  * @organisation HandBuiltApps
- * MIT License
+ * @license https://github.com/handbuiltapps/dropdown/blob/master/LICENSE.txt
  */
 (function ($) {
     $.fn.hbaDropdown = function (options) {
